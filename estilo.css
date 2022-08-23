@@ -1,5 +1,5 @@
 body {
-  background: rgb(179, 210, 235);
+  background: blueviolet;
   margin: 0;
   padding: 0;
 }
@@ -26,7 +26,7 @@ h1 {
    position: absolute;
    width: 100%;
    height: 45px;
-   background:rgb(161, 246, 252);
+   background:palevioletred;
    font-family: 'Courier New', Courier, monospace;
    top: 0;
    left: 0;
@@ -48,8 +48,8 @@ li a {
   text-decoration: none;
 }
 li a:hover {
-  background: rgb(139, 105, 201);
-  color: azure;
+  background: purple;
+  color: whitesmoke;
 }
 #abelha {
    width: 15%;
